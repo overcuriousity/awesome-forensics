@@ -215,6 +215,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Timeline Explorer](https://binaryforay.blogspot.com/2017/04/introducing-timeline-explorer-v0400.html) - Timeline Analysis tool for CSV and Excel files. Built for SANS FOR508 students
 - [timeliner](https://github.com/airbus-cert/timeliner) - A rewrite of mactime, a bodyfile reader
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
+- [Vestigo](https://github.com/overcuriousity/Vestigo) - Human-first timeline analysis with statistical anomaly detection, visualizations and optinal ai agent
 
 ### Disk image handling
 
